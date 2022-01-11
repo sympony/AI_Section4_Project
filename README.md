@@ -1,7 +1,7 @@
 # AI_Section4_Project
 
-## Data
-* [화산귀환](https://comic.naver.com/webtoon/list?titleId=769209&weekday=wed)
+## Dataset
+* [Naver/화산귀환](https://comic.naver.com/webtoon/list?titleId=769209&weekday=wed)
 
 ## Reference
 1. [NVlabs/stylegan](https://github.com/NVlabs/stylegan)
