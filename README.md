@@ -1,4 +1,4 @@
-# AI_Section4_Project
+# Webtoon-StyleGAN
 
 ## Dataset
 * [Naver/화산귀환](https://comic.naver.com/webtoon/list?titleId=769209&weekday=wed)
